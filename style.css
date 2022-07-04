@@ -1,0 +1,22 @@
+body{
+    font-family: 'Slabo 27px', serif;
+}
+
+h1{
+    font-size: 50px;
+}
+ 
+.color{
+    color: rgb(235, 235, 5);
+}
+section{
+    display: flex;
+}
+.half{
+    width: 50%;
+    padding-left: 10%;
+}
+  .half img{
+    width: 80%;
+  }  
+
