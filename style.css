@@ -1,5 +1,13 @@
+
 body{
     font-family: 'Slabo 27px', serif;
+    background-image: url(images/back2.jpg);
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:darkgray;
+    background-blend-mode:screen;
 }
 
 h1{
@@ -19,4 +27,5 @@ section{
   .half img{
     width: 80%;
   }  
+  
 
